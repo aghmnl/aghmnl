@@ -1,6 +1,27 @@
-### Hi there 👋
+# Hi there 👋
 
-- 🔭 I’m currently working on this profile...
+- 🔭 I’m currently looking for a position as Full Stack Developer...
+
+## My stack
+- HTML
+- CSS
+- Javascript
+- Git / GitHub
+- Node.js
+- React
+- React Native
+- Redux
+- Scrum
+- TypeScript
+- AWS
+- DynamoDB
+- SQL
+- Java
+- PostgreSQL
+- Reflect
+- Express
+
+# Feel free to contact me!
 
 <!--
 **aghmnl/aghmnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
