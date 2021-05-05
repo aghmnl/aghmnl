@@ -25,8 +25,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aghmnl&show_icons=true&theme=algolia&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub language count](https://img.shields.io/github/languages/count/aghmnl/my-app?style=plastic)
-
 <!--
 **aghmnl/aghmnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
