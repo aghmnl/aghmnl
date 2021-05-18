@@ -19,6 +19,7 @@
 - Java
 - PostgreSQL
 - Reflect
+- Cypress
 - Express
 
 # Feel free to contact me!
