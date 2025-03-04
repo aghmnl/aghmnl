@@ -1,57 +1,57 @@
 # Hi there 👋
 
-- 🔭 I’m currently looking for a position as Full Stack Developer...
+I’m currently looking for a position as `Mobile` (Kotlin / React Native) or `Full Stack` (Typescript / React / Node.js) Developer.
 
-## My stack
-- HTML
-- CSS
-- Javascript
-- Git / GitHub
-- Node.js
-- React
-- React Native
-- Redux
-- Scrum
-- TypeScript
-- AWS
-- DynamoDB
-- SQL
-- Java
-- PostgreSQL
-- Reflect
-- Cypress
-- Express
+### This is my stack
 
-# Feel free to contact me!
-
-<h3>When I code, I rely on</h3>
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/-Github-FF5733?logo=github&logoColor=white" />
+  <img alt="Copilot" src="https://img.shields.io/badge/-Copilot-33FF57?logo=githubcopilot&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-3357FF?logo=figma&logoColor=white" />
+  <img alt="Material Design" src="https://img.shields.io/badge/-Material_Design-FF33A8?logo=materialdesign&logoColor=white" />
+	<!--  -->
+	<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-FF8C33?logo=kotlin&logoColor=white" />
+	<img alt="React Native" src="https://img.shields.io/badge/-React_Native-A833FF?logo=react&logoColor=white" />
+	<img alt="Expo" src="https://img.shields.io/badge/-Expo-33FFF3?logo=expo&logoColor=black" />
+	<img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack_Compose-FFC733?logo=jetpackcompose&logoColor=black" />
+	<img alt="Jetpack Room" src="https://img.shields.io/badge/-Jetpack_Room-FF3333?logo=jetpackcompose&logoColor=white" />
+	<img alt="Java" src="https://img.shields.io/badge/-Java-33FFA1" />
+	<!--  -->
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-3333FF?logo=html5&logoColor=white" />
+	<img alt="CSS" src="https://img.shields.io/badge/-CSS-FF33D1?logo=css&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavasScript-A8FF33?logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-FF8A33?logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-33FFCF?logo=react&logoColor=black" />
+<!--  -->
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-FFD633?logo=Node.js&logoColor=black" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-FF333F?logo=insomnia&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-33FF85?logo=redux&logoColor=black" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-335BFF?logo=nestjs&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-FF33B5?logo=mongodb&logoColor=white" />
+	<!--  -->
+  <img alt="AWS Lambda" src="https://img.shields.io/badge/-AWS_Lambda-8CFF33?logo=awslambda&logoColor=black" />
+  <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/-Amazon_DynamoDB-FF8B33?logo=amazondynamodb&logoColor=white" />
+  <img alt="Reflect" src="https://img.shields.io/badge/-Reflect-33FFD7" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-FFDB33?logo=postgresql&logoColor=black" />
+  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-FF3340?logo=cypress&logoColor=white" />
+	<!--  -->
+  <img alt="Express" src="https://img.shields.io/badge/-Express-33FF8F?logo=express&logoColor=black" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-333AFF" />
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-FF33C5?logo=nestjs&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-B5FF33?logo=tailwindcss&logoColor=black" />
+  <img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon_S3-FF8C4A?logo=amazons3&logoColor=white" />
+	<!--  -->
+  <img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon_Web_Services-33FF99?logo=amazonwebservices&logoColor=black" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FF9933?logo=firebase&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-33CCFF?logo=googlecloud&logoColor=white" />
+  <img alt="Google Play" src="https://img.shields.io/badge/-Google_Play-FFCC33?logo=expo&logoColor=black" />
 </p>
 
-<!--
+### Feel free to contact me!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aghmnl&show_icons=true&theme=algolia&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustin.minetto@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustinminetto/) [![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/agusminetto)
 
-**aghmnl/aghmnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yo can also request my phone number!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- https://medium.com/@regondaakhil/maximizing-your-github-profile-tips-for-writing-a-stellar-readme-9c6bb6179f49 -->
+<!-- https://github.com/simple-icons/simple-icons/blob/master/slugs.md -->
