@@ -1,4 +1,6 @@
-# Hi there 👋
+<img src="./assets/background.jpg" alt="Banner Image" style="width:100%; height:auto;">
+
+# Open to work 👋
 
 I’m currently looking for a position as `Mobile` (Kotlin / React Native) or `Full Stack` (Typescript / React / Node.js) Developer.
 
