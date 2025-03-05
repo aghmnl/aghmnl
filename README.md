@@ -72,6 +72,25 @@ FollowApps offers a unique solution for those who are not very tech-savvy, lack 
 
 I am in charge of the entire process, from programming in Kotlin to UX/UI design, project management, and customer relations. The progress made so far demonstrates the broad set of skills required and successfully applied in this project.
 
-| <img src="./assets/MyTime.png" width="40" ><span>&nbsp;&nbsp;</span> MyTime <br> | <img src="./assets/MyTasks.png" width="40" ><span>&nbsp;&nbsp;</span> MyTasks <br> |
-| --- | --- |
-| `MyTime` is a personal time management assistant designed to help users understand how their time is spent. It provides insights into daily and weekly activities, empowering informed decisions to optimize time usage. By identifying areas for improvement, `MyTime` aims to make every moment count. Integrating seamlessly with other `FollowApps`, it creates a comprehensive ecosystem for managing day-to-day activities. <br> [MyTime at Google Play](https://play.google.com/store/apps/details?id=com.followapp.mytime) <br> [MyTime repository](https://github.com/aghmnl/android_mytime) | `MyTasks` is a simple yet powerful task management app designed to reclaim valuable free time. It effortlessly tracks tasks and deadlines, ensuring minimal time spent on them and more focus on what truly matters. Seamlessly integrating with other apps in the `FollowApps` suite, `MyTasks` provides a comprehensive ecosystem for managing daily activities efficiently. <br> [MyTasks at Google Play](https://play.google.com/store/apps/details?id=com.followapp.mytasks) <br> [MyTasks repository](https://github.com/aghmnl/android-mytasks) |
+<table>
+  <tr>
+    <td align="left">
+      <h3><img src="./assets/MyTime.png" width="40" ><span>&nbsp;&nbsp;</span> MyTime</h3>
+    </td>
+    <td align="left">
+      <h3><img src="./assets/MyTasks.png" width="40" ><span>&nbsp;&nbsp;</span> MyTasks</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <code>MyTime</code> is a personal time management assistant designed to help users understand how their time is spent. It provides insights into daily and weekly activities, empowering informed decisions to optimize time usage. By identifying areas for improvement, <code>MyTime</code> aims to make every moment count. Integrating seamlessly with other <code>FollowApps</code>, it creates a comprehensive ecosystem for managing day-to-day activities. <br>
+      <a href="https://play.google.com/store/apps/details?id=com.followapp.mytime">MyTime at Google Play</a> <br>
+      <a href="https://github.com/aghmnl/android_mytime">MyTime repository</a>
+    </td>
+    <td>
+      <code>MyTasks</code> is a simple yet powerful task management app designed to reclaim valuable free time. It effortlessly tracks tasks and deadlines, ensuring minimal time spent on them and more focus on what truly matters. Seamlessly integrating with other apps in the <code>FollowApps</code> suite, <code>MyTasks</code> provides a comprehensive ecosystem for managing daily activities efficiently. <br>
+      <a href="https://play.google.com/store/apps/details?id=com.followapp.mytasks">MyTasks at Google Play</a> <br>
+      <a href="https://github.com/aghmnl/android-mytasks">MyTasks repository</a>
+    </td>
+  </tr>
+</table>
