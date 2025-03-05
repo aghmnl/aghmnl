@@ -52,7 +52,7 @@ I’m currently looking for a position as `Mobile` (Kotlin / React Native) or `F
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon_Web_Services-33FF99?logo=amazonwebservices&logoColor=black" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FF9933?logo=firebase&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-33CCFF?logo=googlecloud&logoColor=white" />
-  <img alt="Google Play" src="https://img.shields.io/badge/-Google_Play-FFCC33?logo=expo&logoColor=black" />
+  <img alt="Google Play" src="https://img.shields.io/badge/-Google_Play-FFCC33?logo=googleplay&logoColor=black" />
 </p>
 
 ### Feel free to contact me!
@@ -75,22 +75,22 @@ I am in charge of the entire process, from programming in Kotlin to UX/UI design
 <table>
   <tr>
     <td align="left">
-      <h3><img src="./assets/MyTime.png" width="40" ><span>&nbsp;&nbsp;</span> MyTime</h3>
+      <img src="./assets/MyTime.png" width="40" ><span>&nbsp;&nbsp;</span> MyTime <br>
     </td>
     <td align="left">
-      <h3><img src="./assets/MyTasks.png" width="40" ><span>&nbsp;&nbsp;</span> MyTasks</h3>
+      <img src="./assets/MyTasks.png" width="40" ><span>&nbsp;&nbsp;</span> MyTasks <br>
     </td>
   </tr>
   <tr>
     <td>
-      <code>MyTime</code> is a personal time management assistant designed to help users understand how their time is spent. It provides insights into daily and weekly activities, empowering informed decisions to optimize time usage. By identifying areas for improvement, <code>MyTime</code> aims to make every moment count. Integrating seamlessly with other <code>FollowApps</code>, it creates a comprehensive ecosystem for managing day-to-day activities. <br>
-      <a href="https://play.google.com/store/apps/details?id=com.followapp.mytime">MyTime at Google Play</a> <br>
-      <a href="https://github.com/aghmnl/android_mytime">MyTime repository</a>
+      <code>MyTime</code> is a personal time management assistant designed to help users understand how their time is spent. It provides insights into daily and weekly activities, empowering informed decisions to optimize time usage. By identifying areas for improvement, <code>MyTime</code> aims to make every moment count. Integrating seamlessly with other <code>FollowApps</code>, it creates a comprehensive ecosystem for managing day-to-day activities. <br><br>
+      <a href="https://play.google.com/store/apps/details?id=com.followapp.mytime"><img alt="Google Play" src="https://img.shields.io/badge/-MyTime-3333FF?logo=google-play&logoColor=white" /></a> <span>&nbsp;&nbsp;</span>
+      <a href="https://github.com/aghmnl/android_mytime"><img alt="GitHub" src="https://img.shields.io/badge/-MyTime-FF3340?logo=github&logoColor=white" /></a>
     </td>
     <td>
-      <code>MyTasks</code> is a simple yet powerful task management app designed to reclaim valuable free time. It effortlessly tracks tasks and deadlines, ensuring minimal time spent on them and more focus on what truly matters. Seamlessly integrating with other apps in the <code>FollowApps</code> suite, <code>MyTasks</code> provides a comprehensive ecosystem for managing daily activities efficiently. <br>
-      <a href="https://play.google.com/store/apps/details?id=com.followapp.mytasks">MyTasks at Google Play</a> <br>
-      <a href="https://github.com/aghmnl/android-mytasks">MyTasks repository</a>
+      <code>MyTasks</code> is a simple yet powerful task management app designed to reclaim valuable free time. It effortlessly tracks tasks and deadlines, ensuring minimal time spent on them and more focus on what truly matters. Seamlessly integrating with other apps in the <code>FollowApps</code> suite, <code>MyTasks</code> provides a comprehensive ecosystem for managing daily activities efficiently. <br><br>
+      <a href="https://play.google.com/store/apps/details?id=com.followapp.mytasks"><img alt="Google Play" src="https://img.shields.io/badge/-MyTasks-3333FF?logo=google-play&logoColor=white" /></a> <span>&nbsp;&nbsp;</span>
+      <a href="https://github.com/aghmnl/android-mytasks"><img alt="GitHub" src="https://img.shields.io/badge/-MyTasks-FF3340?logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
