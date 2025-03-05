@@ -64,7 +64,7 @@ Yo can also request my phone number!
 <!-- https://medium.com/@regondaakhil/maximizing-your-github-profile-tips-for-writing-a-stellar-readme-9c6bb6179f49 -->
 <!-- https://github.com/simple-icons/simple-icons/blob/master/slugs.md -->
 
-## FollowApps
+## <img src="./assets/FollowApps.png" width="50" ><span>&nbsp;&nbsp;</span> FollowApps
 
 FollowApps is a powerful ecosystem of 12 interconnected applications, designed to simplify daily management tasks for individuals and micro-businesses. MyTime and MyTasks are already published on Google Play, MyLogs will soon join them.
 
@@ -72,7 +72,7 @@ FollowApps offers a unique solution for those who are not very tech-savvy, lack 
 
 I am in charge of the entire process, from programming in Kotlin to UX/UI design, project management, and customer relations. The progress made so far demonstrates the broad set of skills required and successfully applied in this project.
 
-### FollowApp MyTime
+### <img src="./assets/MyTime.png" width="40" ><span>&nbsp;&nbsp;</span> MyTime
 
 `MyTime` it's a personal time management assistant. The app is designed to help you understand how you spend your time, empowering you to make the most of every moment.
 
@@ -80,7 +80,7 @@ I am in charge of the entire process, from programming in Kotlin to UX/UI design
 
 [MyTime repository](https://github.com/aghmnl/android_mytime)
 
-### FollowApp MyTasks
+### <img src="./assets/MyTasks.png" width="40" ><span>&nbsp;&nbsp;</span> MyTasks
 
 `MyTasks` is a simple yet powerful task management app designed to help you reclaim your valuable free time. With it you can effortlessly keep track of what needs to be done and when, ensuring you spend less time on tasks and more time on what matters to you.
 
