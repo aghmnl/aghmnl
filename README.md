@@ -1,6 +1,14 @@
 <img src="./assets/background.jpg" alt="Banner Image" style="width:100%; height:auto;">
 
-# Open to work 👋
+#
+
+# Agustín Minetto
+
+### Mobile and Full Stack Developer | Chemical Engineer | Entrepreneur | Team Leader
+
+I am a Mobile and Full Stack Developer with a background in Chemical Engineering, bringing over 15 years of experience in process optimization. After transitioning into the tech industry, I have gained more than 3 years of international experience as a developer. I later founded FollowApps, a suite of mobile applications designed to streamline people's daily routines. My expertise includes Kotlin, React, React Native, TypeScript, Node.js, and a variety of web and mobile development technologies. I have held leadership roles and have a strong foundation in agile methodologies and project management.
+
+## Open to work 👋
 
 I’m currently looking for a position as `Mobile` (Kotlin / React Native) or `Full Stack` (Typescript / React / Node.js) Developer.
 
