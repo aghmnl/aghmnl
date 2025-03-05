@@ -72,13 +72,13 @@ FollowApps offers a unique solution for those who are not very tech-savvy, lack 
 
 I am in charge of the entire process, from programming in Kotlin to UX/UI design, project management, and customer relations. The progress made so far demonstrates the broad set of skills required and successfully applied in this project.
 
-<table style="border-collapse: collapse; width: 100%">
+<table>
   <tr>
-    <td align="left" style="border: none">
-      <img src="./images/MyTime.png" width="40" ><span>&nbsp;&nbsp;</span> MyTime <br>
+    <td align="left">
+      <span style="font-size: 1.3em"><img src="./images/MyTime.png" width="40" ><span>&nbsp;&nbsp;&nbsp;</span>MyTime</span> <br>
     </td>
-    <td align="left" style="border: none">
-      <img src="./images/MyTasks.png" width="40" ><span>&nbsp;&nbsp;</span> MyTasks <br>
+    <td align="left">
+      <span style="font-size: 1.3em"><img src="./images/MyTasks.png" width="40" ><span>&nbsp;&nbsp;&nbsp;</span>MyTasks</span> <br>
     </td>
   </tr>
   <tr>
