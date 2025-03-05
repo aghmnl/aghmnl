@@ -52,10 +52,10 @@ I’m currently looking for a position as `Mobile` (Kotlin / React Native) or `F
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon_Web_Services-33FF99?logo=amazonwebservices&logoColor=black" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FF9933?logo=firebase&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-33CCFF?logo=googlecloud&logoColor=white" />
-  <img alt="Google Play" src="https://img.shields.io/badge/-Google_Play-FFCC33?logo=googleplay&logoColor=black" />
+  <img alt="Google Play" src="https://img.shields.io/badge/-Google_Play-FF3366?logo=googleplay&logoColor=white" />
 </p>
 
-### Feel free to contact me!
+### Feel free to contact me! 🗣️🇦🇷🇬🇧🇮🇪🇫🇷🇧🇷
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustin.minetto@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustinminetto/) [![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/agusminetto)
 
@@ -84,30 +84,28 @@ I am in charge of the entire process, from programming in Kotlin to UX/UI design
   <tr>
     <td>
       <code>MyTime</code> is a personal time management assistant designed to help users understand how their time is spent. It provides insights into daily and weekly activities, empowering informed decisions to optimize time usage. By identifying areas for improvement, <code>MyTime</code> aims to make every moment count. Integrating seamlessly with other <code>FollowApps</code>, it creates a comprehensive ecosystem for managing day-to-day activities. <br><br>
-      <a href="https://play.google.com/store/apps/details?id=com.followapp.mytime"><img alt="Google Play" src="https://img.shields.io/badge/-MyTime-3333FF?logo=google-play&logoColor=white" /></a> <span>&nbsp;&nbsp;</span>
-      <a href="https://github.com/aghmnl/android_mytime"><img alt="GitHub" src="https://img.shields.io/badge/-MyTime-FF3340?logo=github&logoColor=white" /></a>
+			<a href="https://github.com/aghmnl/android_mytime">
+  			<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghmnl&repo=android_mytime&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+			</a>			<br><br>
+      <a href="https://play.google.com/store/apps/details?id=com.followapp.mytime"><img alt="Google Play" src="https://img.shields.io/badge/-MyTime-FF3366?logo=google-play&logoColor=white" /></a> <span>&nbsp;&nbsp;</span>
+      <!-- <a href="https://github.com/aghmnl/android_mytime"><img alt="GitHub" src="https://img.shields.io/badge/-MyTime-FF3340?logo=github&logoColor=white" /></a> -->
     </td>
     <td>
       <code>MyTasks</code> is a simple yet powerful task management app designed to reclaim valuable free time. It effortlessly tracks tasks and deadlines, ensuring minimal time spent on them and more focus on what truly matters. Seamlessly integrating with other apps in the <code>FollowApps</code> suite, <code>MyTasks</code> provides a comprehensive ecosystem for managing daily activities efficiently. <br><br>
-      <a href="https://play.google.com/store/apps/details?id=com.followapp.mytasks"><img alt="Google Play" src="https://img.shields.io/badge/-MyTasks-3333FF?logo=google-play&logoColor=white" /></a> <span>&nbsp;&nbsp;</span>
-      <a href="https://github.com/aghmnl/android-mytasks"><img alt="GitHub" src="https://img.shields.io/badge/-MyTasks-FF3340?logo=github&logoColor=white" /></a>
+			<a href="https://github.com/aghmnl/android-mytasks">
+				<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghmnl&repo=android-mytasks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+			</a>	<br><br>
+      <a href="https://play.google.com/store/apps/details?id=com.followapp.mytasks"><img alt="Google Play" src="https://img.shields.io/badge/-MyTasks-FF3366?logo=google-play&logoColor=white" /></a> <span>&nbsp;&nbsp;</span>
+      <!-- <a href="https://github.com/aghmnl/android-mytasks"><img alt="GitHub" src="https://img.shields.io/badge/-MyTasks-FF3340?logo=github&logoColor=white" /></a> -->
     </td>
   </tr>
 </table>
 
-## <img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" height="30"> GitHub Stats
+<!-- ## <img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" height="30"> GitHub Stats
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghmnl&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" alt="Agus's Most Used Languages"/>
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aghmnl&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Agus's GitHub Stats" />
-</a>
-
-<a href="https://github.com/aghmnl/android_mytime">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghmnl&repo=android_mytime&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/aghmnl/android-mytasks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghmnl&repo=android-mytasks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> -->
