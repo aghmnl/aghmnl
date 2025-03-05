@@ -6,9 +6,9 @@
 
 I am a Mobile and Full Stack Developer with a background in Chemical Engineering, bringing over 15 years of experience in process optimization. After transitioning into the tech industry, I have gained more than 3 years of international experience as a developer. I later founded FollowApps, a suite of mobile applications designed to streamline people's daily routines. My expertise includes Kotlin, React, React Native, TypeScript, Node.js, and a variety of web and mobile development technologies. I have held leadership roles and have a strong foundation in agile methodologies and project management.
 
-## Open to work 👋
+## Open to work 💻👨‍💻
 
-I’m currently looking for a position as `Mobile` (Kotlin / React Native) or `Full Stack` (Typescript / React / Node.js) Developer.
+I’m currently looking for a position as `Mobile` (Kotlin / React Native) or `Full Stack` (React / Node.js) Developer.
 
 ### This is my stack
 
@@ -94,3 +94,20 @@ I am in charge of the entire process, from programming in Kotlin to UX/UI design
     </td>
   </tr>
 </table>
+
+## <img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" height="30"> GitHub Stats
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghmnl&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" alt="Agus's Most Used Languages"/>
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aghmnl&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Agus's GitHub Stats" />
+</a>
+
+<a href="https://github.com/aghmnl/android_mytime">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghmnl&repo=android_mytime&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/aghmnl/android-mytasks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghmnl&repo=android-mytasks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
