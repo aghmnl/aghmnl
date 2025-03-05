@@ -1,4 +1,4 @@
-<img src="./assets/background.jpg" alt="Banner Image" style="width:100%; height:auto;">
+<img src="./images/background.jpg" alt="Banner Image" style="width:100%; height:auto;">
 
 # Agustín Minetto
 
@@ -64,7 +64,7 @@ Yo can also request my phone number!
 <!-- https://medium.com/@regondaakhil/maximizing-your-github-profile-tips-for-writing-a-stellar-readme-9c6bb6179f49 -->
 <!-- https://github.com/simple-icons/simple-icons/blob/master/slugs.md -->
 
-## <img src="./assets/FollowApps.png" width="50" ><span>&nbsp;&nbsp;</span> FollowApps
+## <img src="./images/FollowApps.png" width="50" ><span>&nbsp;&nbsp;</span> FollowApps
 
 FollowApps is a powerful ecosystem of 12 interconnected applications, designed to simplify daily management tasks for individuals and micro-businesses. MyTime and MyTasks are already published on Google Play, MyLogs will soon join them.
 
@@ -75,26 +75,36 @@ I am in charge of the entire process, from programming in Kotlin to UX/UI design
 <table>
   <tr>
     <td align="left">
-      <img src="./assets/MyTime.png" width="40" ><span>&nbsp;&nbsp;</span> MyTime <br>
+      <img src="./images/MyTime.png" width="40" ><span>&nbsp;&nbsp;</span> MyTime <br>
     </td>
     <td align="left">
-      <img src="./assets/MyTasks.png" width="40" ><span>&nbsp;&nbsp;</span> MyTasks <br>
+      <img src="./images/MyTasks.png" width="40" ><span>&nbsp;&nbsp;</span> MyTasks <br>
     </td>
   </tr>
   <tr>
     <td>
       <code>MyTime</code> is a personal time management assistant designed to help users understand how their time is spent. It provides insights into daily and weekly activities, empowering informed decisions to optimize time usage. By identifying areas for improvement, <code>MyTime</code> aims to make every moment count. Integrating seamlessly with other <code>FollowApps</code>, it creates a comprehensive ecosystem for managing day-to-day activities. <br><br>
-			<a href="https://github.com/aghmnl/android_mytime">
+			<!-- <a href="https://github.com/aghmnl/android_mytime">
   			<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghmnl&repo=android_mytime&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-			</a>			<br><br>
-      <a href="https://play.google.com/store/apps/details?id=com.followapp.mytime"><img alt="Google Play" src="https://img.shields.io/badge/-MyTime-FF3366?logo=google-play&logoColor=white" /></a> <span>&nbsp;&nbsp;</span>
+			</a>			
+			<br><br> -->
+			<a href="https://github.com/aghmnl/android_mytime">
+  			<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghmnl&repo=android_mytime&theme=dark" />
+			</a>		
+			<br><br>
+			<a href="https://play.google.com/store/apps/details?id=com.followapp.mytime"><img alt="Google Play" src="https://img.shields.io/badge/-MyTime-FF3366?logo=google-play&logoColor=white" /></a> <span>&nbsp;&nbsp;</span>
       <!-- <a href="https://github.com/aghmnl/android_mytime"><img alt="GitHub" src="https://img.shields.io/badge/-MyTime-FF3340?logo=github&logoColor=white" /></a> -->
     </td>
     <td>
       <code>MyTasks</code> is a simple yet powerful task management app designed to reclaim valuable free time. It effortlessly tracks tasks and deadlines, ensuring minimal time spent on them and more focus on what truly matters. Seamlessly integrating with other apps in the <code>FollowApps</code> suite, <code>MyTasks</code> provides a comprehensive ecosystem for managing daily activities efficiently. <br><br>
+			<!-- <a href="https://github.com/aghmnl/android-mytasks">
+			<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghmnl&repo=android-mytasks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+			</a>
+			<br><br> -->
 			<a href="https://github.com/aghmnl/android-mytasks">
-				<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghmnl&repo=android-mytasks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-			</a>	<br><br>
+			<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghmnl&repo=android-mytasks&theme=dark" />
+			</a>
+			<br><br>
       <a href="https://play.google.com/store/apps/details?id=com.followapp.mytasks"><img alt="Google Play" src="https://img.shields.io/badge/-MyTasks-FF3366?logo=google-play&logoColor=white" /></a> <span>&nbsp;&nbsp;</span>
       <!-- <a href="https://github.com/aghmnl/android-mytasks"><img alt="GitHub" src="https://img.shields.io/badge/-MyTasks-FF3340?logo=github&logoColor=white" /></a> -->
     </td>
@@ -103,9 +113,10 @@ I am in charge of the entire process, from programming in Kotlin to UX/UI design
 
 <!-- ## <img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" height="30"> GitHub Stats
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghmnl&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" alt="Agus's Most Used Languages"/>
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aghmnl&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Agus's GitHub Stats" />
-</a> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghmnl&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" alt="Agus's Most Used Languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aghmnl&hide=contribs,issues,stars&show_icons=true&line_height=33&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Agus's GitHub Stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aghmnl&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Agus's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghmnl&hide=html,css,less&layout=compact&theme=dark&hide_border=true" /> -->
+
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
