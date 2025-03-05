@@ -1,7 +1,5 @@
 <img src="./assets/background.jpg" alt="Banner Image" style="width:100%; height:auto;">
 
-#
-
 # Agustín Minetto
 
 ### Mobile and Full Stack Developer | Chemical Engineer | Entrepreneur | Team Leader
@@ -65,3 +63,27 @@ Yo can also request my phone number!
 
 <!-- https://medium.com/@regondaakhil/maximizing-your-github-profile-tips-for-writing-a-stellar-readme-9c6bb6179f49 -->
 <!-- https://github.com/simple-icons/simple-icons/blob/master/slugs.md -->
+
+## FollowApps
+
+FollowApps is a powerful ecosystem of 12 interconnected applications, designed to simplify daily management tasks for individuals and micro-businesses. MyTime and MyTasks are already published on Google Play, MyLogs will soon join them.
+
+FollowApps offers a unique solution for those who are not very tech-savvy, lack resources for more sophisticated management tools, or manage micro-businesses. The suite is designed to be easy to use and affordable, meeting the specific needs of these users.
+
+I am in charge of the entire process, from programming in Kotlin to UX/UI design, project management, and customer relations. The progress made so far demonstrates the broad set of skills required and successfully applied in this project.
+
+### FollowApp MyTime
+
+`MyTime` it's a personal time management assistant. The app is designed to help you understand how you spend your time, empowering you to make the most of every moment.
+
+[MyTime at Google Play](https://play.google.com/store/apps/details?id=com.followapp.mytime)
+
+[MyTime repository](https://github.com/aghmnl/android_mytime)
+
+### FollowApp MyTasks
+
+`MyTasks` is a simple yet powerful task management app designed to help you reclaim your valuable free time. With it you can effortlessly keep track of what needs to be done and when, ensuring you spend less time on tasks and more time on what matters to you.
+
+[MyTasks at Google Play](https://play.google.com/store/apps/details?id=com.followapp.mytasks)
+
+[MyTasks repository](https://github.com/aghmnl/android-mytasks)
