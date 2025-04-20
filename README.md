@@ -111,14 +111,22 @@ I am in charge of the entire process, from programming in Kotlin to UX/UI design
   </tr>
 </table>
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghmnl&repo=git-cheat-sheet&theme=dark" /> -->
+<table>
+<tr>
+<td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghmnl&repo=git-cheat-sheet&theme=dark" />
+</td>
+<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=aghmnl&hide_rank=true&hide=contribs,stars&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Agus's Github Stats" /></td>
+</tr>
+</table>
 
-<!-- ## <img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" height="30"> GitHub Stats
+<!-- ## <img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" height="30"> GitHub Stats -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghmnl&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" alt="Agus's Most Used Languages"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aghmnl&hide=contribs,issues,stars&show_icons=true&line_height=33&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Agus's GitHub Stats" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghmnl&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" alt="Agus's Most Used Languages"/> -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aghmnl&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Agus's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghmnl&hide=html,css,less&layout=compact&theme=dark&hide_border=true" /> -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aghmnl&hide=contribs,issues,stars&show_icons=true&line_height=33&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Agus's GitHub Stats" /> -->
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aghmnl&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Agus's Github Stats" /> -->
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghmnl&hide=html,css,less&layout=compact&theme=dark&hide_border=true" /> -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
