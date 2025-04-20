@@ -13,7 +13,7 @@ I’m currently looking for a position as `Mobile` (Kotlin / React Native) or `F
 ### This is my stack
 
 <p>
-  <img alt="Github" src="https://img.shields.io/badge/-Github-FF5733?logo=github&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-Github-FF5733?logo=github&logoColor=white" />
   <img alt="Copilot" src="https://img.shields.io/badge/-Copilot-33FF57?logo=githubcopilot&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-3357FF?logo=figma&logoColor=white" />
   <img alt="Material Design" src="https://img.shields.io/badge/-Material_Design-FF33A8?logo=materialdesign&logoColor=white" />
@@ -110,6 +110,8 @@ I am in charge of the entire process, from programming in Kotlin to UX/UI design
     </td>
   </tr>
 </table>
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghmnl&repo=git-cheat-sheet&theme=dark" /> -->
 
 <!-- ## <img src="https://img.shields.io/badge/-181717?logo=github&logoColor=white" height="30"> GitHub Stats
 
