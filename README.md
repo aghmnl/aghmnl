@@ -8,7 +8,7 @@ I am a results-driven Software Engineer with international experience in web and
 
 ## Open to work 💻👨‍💻
 
-I’m currently looking for a position as `Mobile Develorper` (Kotlin / React Native / Flutter).
+I’m currently looking for a position as `Mobile Developer` (Kotlin / React Native / Flutter).
 
 ### This is my stack
 
