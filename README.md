@@ -2,13 +2,13 @@
 
 # Agustín Minetto
 
-### Mobile and Full Stack Developer | Chemical Engineer | Entrepreneur | Team Leader
+### Software Engineer | Entrepreneur | Team Leader
 
-I am a Mobile and Full Stack Developer with a background in Chemical Engineering, bringing over 15 years of experience in process optimization. After transitioning into the tech industry, I have gained more than 3 years of international experience as a developer. I later founded FollowApps, a suite of mobile applications designed to streamline people's daily routines. My expertise includes Kotlin, React, React Native, TypeScript, Node.js, and a variety of web and mobile development technologies. I have held leadership roles and have a strong foundation in agile methodologies and project management.
+I am a results-driven Software Engineer with international experience in web and mobile development. I created FollowApps, a suite of applications designed to enhance user experience and simplify everyday processes, showcasing my entrepreneurial mindset and autonomy. My expertise spans diverse languages such as Kotlin, React Native, React and TypeScript. I excel at optimizing workflows, achieving significant cost reductions and improved efficiency while consistently delivering high-value results on time. With experience leading teams and contributing to large-scale projects, I combine strong leadership skills, adaptability, a passion for agile methodologies, and a self-taught mindset that drives continuous learning, innovation and growth.
 
 ## Open to work 💻👨‍💻
 
-I’m currently looking for a position as `Mobile` (Kotlin / React Native) or `Full Stack` (React / Node.js) Developer.
+I’m currently looking for a position as `Mobile Develorper` (Kotlin / React Native / Flutter).
 
 ### This is my stack
 
@@ -53,6 +53,16 @@ I’m currently looking for a position as `Mobile` (Kotlin / React Native) or `F
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FF9933?logo=firebase&logoColor=white" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-33CCFF?logo=googlecloud&logoColor=white" />
   <img alt="Google Play" src="https://img.shields.io/badge/-Google_Play-FF3366?logo=googleplay&logoColor=white" />
+  <img alt="Clerk" src="https://img.shields.io/badge/-Clerk-33FF57?logo=clerk&logoColor=white" />
+  <!--  -->
+  <img alt="tRPC" src="https://img.shields.io/badge/-tRPC-3357FF?logo=trpc&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-FF33A8?logo=Prisma&logoColor=white" />
+    <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-FF8C33?logo=shadcnui&logoColor=white" />
+	<img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn/ui-A833FF?logo=react&logoColor=white" />
+  	<img alt="Zod" src="https://img.shields.io/badge/-Zod-33FFF3?logo=Zod&logoColor=black" />
+	<img alt="Postman" src="https://img.shields.io/badge/-Postman-FFC733?logo=postman&logoColor=black" />
+	<img alt="PostCSS" src="https://img.shields.io/badge/-PostCSS-FF3333?logo=postCSS&logoColor=white" />
+
 </p>
 
 ### Feel free to contact me! 🗣️🇦🇷🇬🇧🇮🇪🇫🇷🇧🇷
@@ -112,6 +122,13 @@ I am in charge of the entire process, from programming in Kotlin to UX/UI design
 </table>
 
 <table>
+<tr>
+<td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghmnl&repo=compiti-client&theme=dark" />
+</td>
+<td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghmnl&repo=compiti-server&theme=dark" />
+</td>
+
+</tr>
 <tr>
 <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aghmnl&repo=git-cheat-sheet&theme=dark" />
 </td>
